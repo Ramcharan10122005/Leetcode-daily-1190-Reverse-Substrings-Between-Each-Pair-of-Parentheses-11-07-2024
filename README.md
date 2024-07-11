@@ -35,3 +35,6 @@ Your result should **not** contain any brackets.
 - 1 <= s.length <= 2000
 - s only contains lower case English characters and parentheses.
 - It is guaranteed that all parentheses are balanced.
+
+# problem:
+https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/?envType=daily-question&envId=2024-07-11
